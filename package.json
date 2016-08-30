@@ -5,7 +5,7 @@
   "description": "Demo app for Pluralsight Docker CI course",
   "main": "app.js",
   "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
-  "license": "You'd have to be mad to use this in production :-D",
+  "license": "Solo licencia de prueba, no usar en produccion :-( ",
   "dependencies": {
     "express": "3.2.4",
     "jade": "1.11.0",
